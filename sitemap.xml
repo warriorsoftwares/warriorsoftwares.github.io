@@ -33,4 +33,11 @@
   <changefreq>weekly</changefreq>
 </url>
 
+<url>
+  <loc>https://warriorsoftwares.github.io/privacy.html</loc>
+  <lastmod>2026-11-30T00:00:00+00:00</lastmod>
+  <priority>0.8</priority>
+  <changefreq>weekly</changefreq>
+</url>
+
 </urlset>
