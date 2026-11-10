@@ -23,4 +23,4 @@ Disallow: /edu.json
 Allow: /
 
 # Your correct sitemap location
-Sitemap: https://warriorsoftwares.github.io/termtestapp/sitemap.xml
+Sitemap: https://warriorsoftwares.github.io/sitemap.xml
