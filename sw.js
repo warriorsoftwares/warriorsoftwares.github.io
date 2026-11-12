@@ -1,4 +1,4 @@
-const CACHE_NAME = "masters-quizzes-v7";
+const CACHE_NAME = "masters-quizzes-v8";
 
 const FILES_TO_CACHE = [
   "/",
@@ -8,7 +8,8 @@ const FILES_TO_CACHE = [
   "/manifest.json",
   "/globe.jpg",
   "/icon-192.png",
-  "/icon-512.png"
+  "/icon-512.png",
+  "/ads.txt"
 ];
 
 self.addEventListener("install", (event) => {
