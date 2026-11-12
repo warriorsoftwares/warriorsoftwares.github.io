@@ -46,7 +46,7 @@ window.addEventListener('DOMContentLoaded', () => {
                 }
             }, 400);
         }
-    }, 3000);
+    }, 1350);
 
     const savedName = localStorage.getItem('mq_username') || localStorage.getItem('mq_name');
     if (savedName) updateProfileCircle(savedName);
