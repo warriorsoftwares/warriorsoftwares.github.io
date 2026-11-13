@@ -11,12 +11,9 @@ Disallow: /
 User-agent: PerplexityBot
 Disallow: /
 
-User-agent: Google-Extended
-Disallow: /
 
 # Directives for search engines (Google, Bing, etc.)
 User-agent: *
-Disallow: /uses.json
 Disallow: /master_data.json
 Disallow: /edu.json
 
